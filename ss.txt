@@ -1088,7 +1088,6 @@ yande.re
 yeggi.com
 yle.fi
 youtrack.cloud
-youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com
 youtubeembeddedplayer.googleapis.com
