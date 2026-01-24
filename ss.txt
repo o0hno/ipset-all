@@ -1090,7 +1090,6 @@ yle.fi
 youtrack.cloud
 youtube-nocookie.com
 youtube-ui.l.google.com
-youtubeembeddedplayer.googleapis.com
 youtubei.googleapis.com
 youtubekids.com
 yt-video-upload.l.google.com
