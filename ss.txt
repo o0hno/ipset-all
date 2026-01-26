@@ -119,7 +119,6 @@ buf.build
 bufferbloat.net
 builds.parsec.app
 buymeacoffee.com
-byteoversea.com
 canva.com
 canva.dev
 capacitorjs.com
@@ -414,7 +413,6 @@ hume.ai
 hybrid-analysis.com
 i.sakh.com
 ibm.com
-ibytedtos.com
 idelreal.org
 iditelesombase.org
 iedb.org
@@ -571,8 +569,6 @@ mouser.fi
 mssg.me
 mullvad.net
 multporn.net
-muscdn.com
-musical.ly
 musicbrainz.org
 musixmatch.com
 mw2.wiki
@@ -943,17 +939,6 @@ threads.net
 threema.ch
 ti.com
 tidal.com
-tik-tokapi.com
-tiktok.com
-tiktokcdn-eu.com
-tiktokcdn-us.com
-tiktokcdn.com
-tiktokd.net
-tiktokd.org
-tiktokv.com
-tiktokv.eu
-tiktokv.us
-tiktokw.us
 timberland.de
 tiptop-vpn.com
 tmdb-image-prod.b-cdn.net
@@ -972,7 +957,6 @@ tria.ge
 trueblackmetalradio.com
 truthsocial.com
 tsmc.com
-ttwstatic.com
 turbobit.net
 tuta.com
 tuta.io
